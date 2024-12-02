@@ -1,5 +1,6 @@
 import { useState } from "react";
 import QuestCard from "../components/quest/QuestCard";
+import NavBar from "../components/general/Navbar";
 
 const QuestPage = () => {
   const questsContent = [
@@ -47,6 +48,7 @@ const QuestPage = () => {
           );
         })}
       </ul>
+      <NavBar />
     </div>
   );
 };
