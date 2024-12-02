@@ -17,8 +17,11 @@ export default {
         blue3: '#1B4965',
         blue4: '#62B6CB',
         blue5: 'BEE9E8',
+        blue6: '#DCE3E4',
         yellow1: '#FFDA8B',
-        yellow2: '#F4A731'
+        yellow2: '#F4A731',
+        black1: '#3D3F42',
+        black2: '#28282B'
       }
     },
   },
